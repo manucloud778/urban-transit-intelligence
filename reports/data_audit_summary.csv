@@ -1,0 +1,9 @@
+file,rows,columns,duplicate_rows,total_missing_cells,duplicate_rows_within_chunks,duplicate_key_rows
+agency.txt,2,7,0.0,4,,
+calendar.txt,1,10,0.0,0,,
+routes.txt,2403,5,0.0,2403,,
+trips.txt,89393,4,0.0,89393,,
+stops.txt,10559,6,0.0,0,,
+stop_times.txt,3724320,5,,0,0.0,0.0
+fare_attributes.txt,2305138,7,,0,0.0,0.0
+fare_rules.txt,2305138,4,,0,0.0,0.0

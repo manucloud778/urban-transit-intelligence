@@ -1,0 +1,13 @@
+route_id,route_short_name,route_long_name,route_type,scheduled_trips,unique_stops,trips_per_stop
+Delhi2,2,Yellow Line,1,1215,37,32.84
+NoidaAqua,Aqua,Noida Aqua Line,1,672,21,32.0
+Delhi6,6,Violet Line,1,529,34,15.56
+Delhi5,5,Green Line,1,429,23,18.65
+Delhi1,1,Red Line,1,390,29,13.45
+Gurgaon1,Gurgaon,Gurgaon Rapid Metro,1,376,12,31.33
+Delhi4,4,Blue Line (Vaishali Branch),1,366,41,8.93
+Delhi3,3,Blue Line (Noida Main Line),1,365,50,7.3
+Delhi7,7,Pink Line,1,364,38,9.58
+Delhi8,8,Magenta Line,1,353,25,14.12
+DelhiAirport,Airport,Airport Express (Orange) Line,1,226,6,37.67
+Delhi9,9,Grey Line,1,153,4,38.25

@@ -1,0 +1,8 @@
+table,rows,columns,missing_values,duplicate_rows
+agency,1,8,4,0
+calendar,3,10,0,0
+routes,12,12,48,0
+shapes,6643,5,0,0
+stop_times,128434,12,385302,0
+stops,262,6,524,0
+trips,5438,10,21752,0

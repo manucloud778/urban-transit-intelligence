@@ -1,0 +1,5 @@
+routes -> agency missing references: 0
+trips -> routes missing references: 0
+trips -> calendar missing references: 0
+stop_times -> trips missing references: 0
+stop_times -> stops missing references: 0
